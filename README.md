@@ -41,7 +41,7 @@ Make sure you have git installed:
 
     sudo apt-get install git
 
-Clone this repository into your catkin workspace (e.g., `~/catin_ws/src`; use
+Clone this repository into your catkin workspace (e.g., `~/catkin_ws/src`; use
 the proper branch for your distro, e.g., `melodic`, `noetic`, ...):
 
     git clone -b <YOUR_ROSDISTO> https://github.com/CCNYRoboticsLab/imu_tools.git
